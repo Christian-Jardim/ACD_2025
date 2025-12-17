@@ -7,4 +7,4 @@ Os algoritmos implementados são: Breadth First Search, Deep First Search, Krusk
 
 As representações de grafos implementadas são: Digrafo com Lista de Adjacência e Digrafo com Matriz de Adjacência.
 
-A unidade de tempo de registrio é: milissegundos.
+A unidade de tempo de registrio é de milissegundos.
