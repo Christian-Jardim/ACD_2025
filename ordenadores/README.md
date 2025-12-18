@@ -14,3 +14,6 @@ O foco do programa é a execução de um seleto número de algoritmos de ordena�
 - Countingsort
 - Radixsort
 - Bucketsort.
+
+# Obejetos dos vetrores
+Os objetos que poderiam ser armazenados nos vetores deveriam ser aqueles que implementam a interface Comparable do Java
