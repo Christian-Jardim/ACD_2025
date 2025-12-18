@@ -1,4 +1,4 @@
-# Programa referente ao Trabalho Prático 2.
+# Programa referente ao Trabalho Prático 2
 
 ## Descrição
 O foco do programa é a execução de um seleto número de algoritmos de grafos 
